@@ -1,0 +1,6 @@
+User-agent: *
+Disallow: /assets/
+Disallow: /cfc/
+Disallow: /cms/
+Disallow: /plugins/
+Disallow: /tempaltes/

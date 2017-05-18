@@ -1,0 +1,1 @@
+<cfset session.msg = 'NULL'>

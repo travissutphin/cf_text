@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<dwsync>
+<file name="admin.cfc" server="216.15.232.241/wwwroot/" local="131361672474118661" remote="131361636000000000" Dst="2" />
+<file name="ads.cfc" server="216.15.232.241/wwwroot/" local="131361632652936865" remote="131286590400000000" Dst="2" />
+<file name="bios.cfc" server="216.15.232.241/wwwroot/" local="131361632654179295" remote="131286590400000000" Dst="2" />
+<file name="groups.cfc" server="216.15.232.241/wwwroot/" local="131361632654740089" remote="131302808400000000" Dst="2" />
+<file name="images_files_repo.cfc" server="216.15.232.241/wwwroot/" local="131361632657619070" remote="131286590400000000" Dst="2" />
+<file name="links_x_bios.cfc" server="216.15.232.241/wwwroot/" local="131361632657623830" remote="131286590400000000" Dst="2" />
+<file name="links_x_pages.cfc" server="216.15.232.241/wwwroot/" local="131361632659217707" remote="131286590400000000" Dst="2" />
+<file name="message_board.cfc" server="216.15.232.241/wwwroot/" local="131361632661853898" remote="131286590400000000" Dst="2" />
+<file name="pages.cfc" server="216.15.232.241/wwwroot/" local="131361632667356093" remote="131321764800000000" Dst="2" />
+<file name="page_layouts.cfc" server="216.15.232.241/wwwroot/" local="131361632667361075" remote="131286590400000000" Dst="2" />
+<file name="page_templates.cfc" server="216.15.232.241/wwwroot/" local="131361632670042560" remote="131286590400000000" Dst="2" />
+<file name="providers.cfc" server="216.15.232.241/wwwroot/" local="131361632671655028" remote="131302759200000000" Dst="2" />
+<file name="page_x_blog_categories.cfc" server="216.15.232.241/wwwroot/" local="131361632671670108" remote="131286590400000000" Dst="2" />
+<file name="roles.cfc" server="216.15.232.241/wwwroot/" local="131361632673778145" remote="131297639400000000" Dst="2" />
+<file name="slide_show.cfc" server="216.15.232.241/wwwroot/" local="131361632675582404" remote="131286590400000000" Dst="2" />
+<file name="users_x_groups.cfc" server="216.15.232.241/wwwroot/" local="131361632675821969" remote="131297800800000000" Dst="2" />
+<file name="_helpers.cfc" server="216.15.232.241/wwwroot/" local="131361632677646045" remote="131286590400000000" Dst="2" />
+<file name="_robust_exception.cfc" server="216.15.232.241/wwwroot/" local="131361632680256170" remote="131286590400000000" Dst="2" />
+<file name="_messages.cfc" server="216.15.232.241/wwwroot/" local="131382479270004735" remote="131382442800000000" Dst="2" />
+<file name="_security.cfc" server="216.15.232.241/wwwroot/" local="131361632681854933" remote="131286590400000000" Dst="2" />
+</dwsync>
